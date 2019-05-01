@@ -23,7 +23,7 @@ function deepestChild() {
   let deepest_node = ""
 
   for (let i = 0; i < nodes.length; i++) {
-     deepest_node = elements[i];
+     deepest_node = nodes[i];
   }
   return deepest_node
 
