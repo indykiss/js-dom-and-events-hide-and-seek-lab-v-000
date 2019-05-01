@@ -25,5 +25,4 @@ function deepestChild() {
      deepest_node = nodes[i];
   }
   return deepest_node
-
 }
