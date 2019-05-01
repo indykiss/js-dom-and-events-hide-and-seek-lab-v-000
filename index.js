@@ -20,10 +20,10 @@ function increaseRankBy(n) {
 
 function deepestChild() {
   let nodes = document.querySelectorAll('#grand-node div');
-  let element = ""
+  let arr = ""
 
   for (let i = 0; i < elements.length; i++) {
-     element = elements[i];
+     arr = elements[i];
   }
   return element
 
