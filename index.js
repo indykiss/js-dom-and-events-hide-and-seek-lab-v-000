@@ -1,6 +1,6 @@
 
 function getFirstSelector(selector) {
-  return 
+  return document.querySelector('ul.ranked-list li ul li')
 }
 
 
