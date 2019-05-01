@@ -25,6 +25,6 @@ function deepestChild() {
   for (let i = 0; i < elements.length; i++) {
      arr = elements[i];
   }
-  return element
+  return arr
 
 }
